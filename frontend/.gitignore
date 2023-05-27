@@ -37,3 +37,6 @@ build/
 ### Mac OS ###
 .DS_Store
 /node/
+/youtube-clone-ui/node/
+/youtube-clone-ui/.vscode/
+/node/

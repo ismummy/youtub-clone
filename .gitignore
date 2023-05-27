@@ -32,3 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 /frontend/node/
+/frontend/youtube-clone-ui/.vscode/
+/frontend/youtube-clone-ui/node/
+/frontend/youtube-clone-ui/.vscode/
+/frontend/node/
